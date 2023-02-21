@@ -1,0 +1,13 @@
+{
+    "name": "maps-app",
+    "source": "index.html",
+    "scripts": {
+        "start": "parcel",
+        "build": "parcel build"
+    },
+    "devDependencies": {
+        "@faker-js/faker": "^7.6.0",
+        "@types/google.maps": "^3.51.1",
+        "parcel": "^2.8.3"
+    }
+}
